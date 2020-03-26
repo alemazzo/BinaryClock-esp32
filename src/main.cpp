@@ -16,8 +16,8 @@ NTPClient timeClient(ntpUDP, "europe.pool.ntp.org", 3600, 60000);
 
 void connectToWiFi(){
 
-    const char* WIFI_SSID = "TIM-75473908";
-    const char* WIFI_PASS = "qJ6BHgZed99XSBKV";
+    const char* WIFI_SSID = "************";
+    const char* WIFI_PASS = "************";
 
     Serial.println();
     Serial.println();
